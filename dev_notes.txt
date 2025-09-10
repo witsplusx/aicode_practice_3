@@ -1,0 +1,17 @@
+
+1、all age range (6-8,8-10,10-12)
+2、English learning for Chinese native speakers
+3、Primarily at home with parent supervision. Independent learning
+4、all of the above
+5、CEFR levels (A1, A2, B1, etc.)
+6、Communicative language teaching. Task-based learning. Gamification elements.
+7、School English exams. International certifications (Cambridge, IELTS, TOEFL Junior)
+8、Pre-built curriculum. Integration with existing textbooks.
+9、Daily/weekly/monthly reports. Parent/teacher dashboards.
+10、Offline capability. Mobile app. Offline capability.
+11、Integration of AI algorithms, enhancing learning skills and quality.
+
+
+
+/pm:epic-sync language-learning-app
+
