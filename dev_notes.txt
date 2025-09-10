@@ -1,4 +1,12 @@
 
+我想使用Chakra UI创建一个移动优先的英语学习应用，主要需求点如下：
+1、用户为中国环境下的中小学学生
+2、提供全方位的测评能力，从听说读写等输出精准用户画像
+3、通过用户画像制定学习路线
+4、应用提供阶段性周期性测评功能
+5、功能引导性强、循序渐进，并融合一些知名的学习方法进去，对应试教育有实质性作用
+
+
 1、all age range (6-8,8-10,10-12)
 2、English learning for Chinese native speakers
 3、Primarily at home with parent supervision. Independent learning
@@ -9,9 +17,42 @@
 8、Pre-built curriculum. Integration with existing textbooks.
 9、Daily/weekly/monthly reports. Parent/teacher dashboards.
 10、Offline capability. Mobile app. Offline capability.
-11、Integration of AI algorithms, enhancing learning skills and quality.
 
 
 
 /pm:epic-sync language-learning-app
+
+
+
+
+ Target Users & Context:
+  - 6-12, 12-15
+  - beginning, intermediate
+  - both
+  - smartphones, tablets
+
+  Assessment Capabilities:
+  - reading, writing, listening, speaking, grammar, vocabulary
+  - scores, levels, badges
+  - Refer to the industry evaluation assessment system
+  - yes
+
+  Learning Methodology:
+  - What learning methods should be integrated (spaced repetition, gamification, personalized learning paths)?
+  - How should the app guide students through their learning journey?
+  - What motivational elements work best for Chinese students?
+  - How do we balance exam preparation with comprehensive learning?
+
+  Technical Requirements:
+  - What's the preferred tech stack (you mentioned Chakra UI - what about backend)?
+  - Do we need offline capabilities?
+  - Should we integrate with existing school systems?
+  - What about data privacy and parental controls?
+
+  Success Metrics:
+  - How do we measure learning effectiveness?
+  - What engagement metrics matter most?
+  - How will we track student improvement over time?
+
+
 
